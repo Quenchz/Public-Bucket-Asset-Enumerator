@@ -83,8 +83,9 @@ This tool is intended for:
 - The developer is not responsible for misuse.
 ```
 
-```bash
+
 ## 👨‍💻 Author
+```
 - Berkay Yaldız
 - Cybersecurity Specialist / Pentester
 ```
