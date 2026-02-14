@@ -20,6 +20,52 @@ This tool helps security researchers and penetration testers identify exposed as
 - Bug bounty reconnaissance
 - Asset exposure analysis
 
+
+## ⚙️ Installation
+Clone the repository:
+```bash
+git clone https://github.com/Quenchz/Public-Bucket-Asset-Enumerator.git
+cd Public-Bucket-Asset-Enumerator
+
+## 📦 Requirements
+
+- Python 3.8+
+- requests
+
+Install dependencies:
+pip install -r requirements.txt
+
+## 🚀 Usage
+
+Basic scan:
+
+```bash
+python dircheck.py -u https://target-bucket.com -i bucket.xml
+
+Custom thread count & output name:
+python dircheck.py -u https://target-bucket.com -i bucket.xml -t 20 -o scan_result
+
+## 🧾 Arguments
+| Argument | Description |
+|----------|------------|
+| -u | Base bucket URL |
+| -i | XML input file |
+| -t | Thread count (default: 10) |
+| -o | Output file prefix |
+
+## 📂 Output
+
+Results are saved inside the `output/` directory:
+
+- result_200.txt → Accessible files
+- result_403.txt → Forbidden files
+- result_404.txt → Not found files
+- result_errors.txt → Request errors
+## 📸 Demo
+
+![Tool Demo](images/demo.png)
+
+
 ⚠️ Disclaimer
 This tool is intended for:
 - Educational purposes
