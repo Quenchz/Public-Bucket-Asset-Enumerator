@@ -74,7 +74,7 @@ Results are saved inside the `output/` directory:
 ```
 <img width="779" height="405" alt="demo" src="https://github.com/Quenchz/Public-Bucket-Asset-Enumerator/blob/main/demo.png" />
 
-⚠️ Disclaimer
+## ⚠️ Disclaimer
 ```bash
 This tool is intended for:
 - Educational purposes
@@ -83,6 +83,8 @@ This tool is intended for:
 - The developer is not responsible for misuse.
 ```
 
- Author
+```bash
+## 👨‍💻 Author
 - Berkay Yaldız
 - Cybersecurity Specialist / Pentester
+```
