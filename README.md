@@ -15,18 +15,18 @@ This tool helps security researchers and penetration testers identify exposed as
 
 
 🛡️ Use Cases
-Public storage bucket enumeration
-Sensitive document discovery
-Bug bounty reconnaissance
-Asset exposure analysis
+- Public storage bucket enumeration
+- Sensitive document discovery
+- Bug bounty reconnaissance
+- Asset exposure analysis
 
 ⚠️ Disclaimer
 This tool is intended for:
-Educational purposes
-Authorized security testing
-Bug bounty research
-The developer is not responsible for misuse.
+- Educational purposes
+- Authorized security testing
+- Bug bounty research
+- The developer is not responsible for misuse.
 
  Author
-Berkay Yaldız
-Cybersecurity Specialist / Pentester
+- Berkay Yaldız
+- Cybersecurity Specialist / Pentester
