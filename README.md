@@ -63,7 +63,7 @@ Results are saved inside the `output/` directory:
 - result_errors.txt → Request errors
 ## 📸 Demo
 
-![Tool Demo](images/demo.png)
+![Tool Demo](demo.png)
 
 
 ⚠️ Disclaimer
